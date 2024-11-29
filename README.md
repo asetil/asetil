@@ -1,6 +1,7 @@
 ## “Any fool can write code that a computer can understand. Good programmers write code that humans can understand.”
 ― Martin Fowler
 
+[Follow me on Medium](https://medium.com/@osman.sokuoglu)
 
 <!--
 **asetil/asetil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
