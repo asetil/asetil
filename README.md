@@ -2,7 +2,9 @@
 ― Martin Fowler
 
 
-## [Follow me on Medium](https://medium.com/@osman.sokuoglu)
+- 🔭 [Follow me on Medium](https://medium.com/@osman.sokuoglu)
+- 📫 Reach me =>osman.sokuoglu@gmail.com
+- ⚡[I have a nuget package named Aware](https://www.nuget.org/packages/Aware)
 
 <!--
 **asetil/asetil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
