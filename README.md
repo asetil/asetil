@@ -3,8 +3,10 @@
 
 
 - 🔭 [Follow me on Medium](https://medium.com/@osman.sokuoglu)
-- 📫 Reach me =>osman.sokuoglu@gmail.com
-- ⚡[I have a nuget package named Aware](https://www.nuget.org/packages/Aware)
+- ⚡[Explore my nuget package Aware](https://www.nuget.org/packages/Aware)
+- 👯 I am currently working on the digital transformation processes of the [Public Procurement Authority](https://www.ihale.gov.tr/) project for Havelsan.
+- 📫 Reach me osman.sokuoglu@gmail.com
+
 
 <!--
 **asetil/asetil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
