@@ -4,7 +4,7 @@
 
 - 🔭 [Follow me on Medium](https://medium.com/@osman.sokuoglu)
 - ⚡[Explore my nuget package Aware](https://www.nuget.org/packages/Aware)
-- 👯 I am currently working on the digital transformation processes of the [Public Procurement Authority](https://www.ihale.gov.tr/) project for Havelsan.
+- 👯 I am currently working on the digital transformation processes of the [Public Procurement Authority](https://ekap.kik.gov.tr/) project for Havelsan.
 - 📫 Reach me osman.sokuoglu@gmail.com
 
 
